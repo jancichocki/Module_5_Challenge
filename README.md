@@ -13,10 +13,3 @@ Welcome to the Advanced Financial Portfolio Evaluation and Forecasting System. T
 - **Monte Carlo Simulation for Long-term Forecasting**: At the core of the system lies an advanced Monte Carlo simulation process, which projects the future performance of the portfolio over a span of 30 years, based on a 60/40 stocks to bonds allocation. It includes detailed visualizations of simulation outcomes and probability distributions, offering a strategic planning tool for long-term investment growth.
 
 - **Retirement Portfolio Projections**: This feature refines the Monte Carlo simulation to focus on a 10-year return forecast, adjusting the portfolio to an 80/20 stocks to bonds ratio. It explores the feasibility of achieving early retirement goals through strategic investment reallocation, providing actionable insights for life planning.
-
-## Technical Setup and Requirements
-
-To deploy this system, ensure that you have Python installed on your environment along with necessary libraries such as `requests`, `pandas`, `numpy`, `matplotlib`, and `alpaca-trade-api`. Dependencies can be installed using the command:
-
-```bash
-pip install -r requirements.txt
