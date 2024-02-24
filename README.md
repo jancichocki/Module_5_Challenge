@@ -2,6 +2,8 @@
 
 Welcome to the Advanced Financial Portfolio Evaluation and Forecasting System. This sophisticated project is designed to offer a holistic view and forward-looking insights into a diversified financial portfolio. It integrates real-time financial data from leading cryptocurrencies and traditional stock and bond markets, providing a multi-dimensional analysis of an investor's assets. Through cutting-edge Monte Carlo simulations, the system projects the potential growth of the portfolio, empowering investors with strategic foresight to optimize their investment decisions.
 
+[Main Program Notebook](https://github.com/jancichocki/Module_5_Challenge/blob/main/Main.ipynb)
+
 ## Key Features and Capabilities
 
 - **Dynamic Cryptocurrency Wallet Assessment**: Harnessing the power of the Requests library, this feature dynamically retrieves real-time price information for leading cryptocurrencies, including Bitcoin and Ethereum. It meticulously calculates the total value of the cryptocurrency wallet, offering up-to-the-minute financial insights.
